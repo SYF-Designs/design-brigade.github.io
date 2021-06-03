@@ -12,7 +12,7 @@
         "start": "npm run build && node scripts/start.js",
         "start:debug": "npm run build && node scripts/start-debug.js"
     },
-    "description": "A grayscale one page HTML theme for Bootstrap.",
+    "description": "An Art blog by SYF",
     "keywords": [
         "css",
         "sass",
@@ -21,7 +21,7 @@
         "theme",
         "template"
     ],
-    "homepage": "http://design-brigade.github.io",
+    "homepage": "http://syf-designs.github.io",
     "bugs": {
         "url": "https://github.com/StartBootstrap/startbootstrap-grayscale/issues",
         "email": "syedayasoobf@gmail.com"
